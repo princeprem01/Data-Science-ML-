@@ -1,3 +1,3 @@
 # Data-Science-ML
 
-Sklean01 : Clean, Fill, Transform data, and Train a model
+Sklean01 : Clean, Fill, Transform data, Train and Test a model
