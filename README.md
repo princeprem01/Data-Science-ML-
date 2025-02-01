@@ -2,4 +2,6 @@
 
 Sklean01 : Clean, Fill, Transform data(feature engineering), Train and Test a model
 
-ChoosingModel1: Choosing the right model (Regression problem)
+Choosing model1: Choosing the right model (Regression problem)
+
+Choosing model2: Choosing the right model (Classification problem)
